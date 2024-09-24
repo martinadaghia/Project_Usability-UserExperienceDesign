@@ -1,4 +1,4 @@
-# Predizione anno di pubblicazione delle canzoni
+# profgiuseppebettati.it
 
 ## Corso universitario
 Usability & User Experience Design
@@ -7,9 +7,9 @@ Usability & User Experience Design
 Laurea Magistrale in Informatica
 
 ## Voto
-30/30
+30 e Lode
 
 ## Partecipanti
 - Martina Daghia
 - Martina Zauli
-- Anna Tosoroni.
+- Anna Tosoroni
